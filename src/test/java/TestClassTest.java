@@ -17,5 +17,8 @@ public class TestClassTest {
         assertEquals(1,1);
     }
 
-
+    @Test
+    public void test3() throws Exception {
+        assertEquals(true, true);
+    }
 }
