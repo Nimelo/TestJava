@@ -21,4 +21,8 @@ public class TestClassTest {
     public void test3() throws Exception {
         assertEquals(true, true);
     }
+
+    @Test
+    public void test4() throws Exception {
+    }
 }
